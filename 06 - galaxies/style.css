@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: Mulish;
+}
+body {
+    background-color: #121214;
+    display: grid;
+    justify-content: center;
+    padding: 72px 104px;
+}
+
+main {
+    margin-top: 62px;
+    display: grid;
+    grid-template-columns: repeat(3, 370px);
+    gap: 48px 60px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+    background-color: #202024;
+    border-radius: 8px;
+    border: 2px solid #323238;
+    overflow: hidden;
+    transition: all 0.5s ease-in-out; /* Aplica a transição a todas as propriedades */
+}
+  
+.card:hover {
+  transform: scale(1.05);
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.card:not(:hover) {
+  transform: scale(1);
+  background-color: rgba(0, 0, 0, 0.0);
+}
+ 
+.card h2 {
+    color: #E1E1E6;
+    font-weight: 900;
+    font-size: 36px;
+    padding: 24px 32px 0;
+}
+
+.card p {
+    color: #c4c4cc;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 24px 32px 32px;
+}
+
+header h1 {
+  font-weight: 900;
+  font-size: 56px;
+  line-height: 72px;
+  color: #02799D;
+}
+
+header h1 span {
+  display: inline-block;
+  transition: color 0.2s ease-in-out;
+}
+
+header h1 span:hover {
+  color: #fff;
+}
+
+
+header p {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    color: #E1E1E6;
+}
