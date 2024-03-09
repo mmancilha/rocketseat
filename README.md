@@ -11,8 +11,6 @@
 
 - 👨‍💻 More about me [https://www.linkedin.com/in/maycon-mancilha/)
 
-
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -42,7 +40,6 @@
 
 <a href="https://www.linkedin.com/in/mayconmancilha/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-mayconmancilha-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mayconmancilha" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/mayconmancilha?trk=profile-badge">Maycon de Oliveira Domingues Mancilha</a></div>
 </a>
 <a href="https://instagram.com/mancilhamaycon" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-mancilhamaycon-05122A?style=flat&logo=instagram" alt="instagram"/>
